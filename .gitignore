@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Excel temporary files
+~$*.xlsx
+
+# Drivers
+CAA-CR-Scrap/chrome-mac.zip
+CAA-CR-Scrap/Chromium.app/Contents/Frameworks/Chromium Framework.framework/Versions/140.0.7275.0/Chromium Framework
+
+# Python environment
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# Drivers pesados (mayores a 100MB, no subir a GitHub)
+CAA-CR-Scrap/chrome-mac.zip
+CAA-CR-Scrap/Chromium.app/
+Martindale/chromedriver.exe
+Martindale/geckodriver
+CAA-CR-Scrap/geckodriver
